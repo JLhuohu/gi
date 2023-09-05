@@ -4,7 +4,7 @@ go 1.21.0
 
 require (
 	github.com/Knetic/govaluate v3.0.0+incompatible
-	github.com/Masterminds/vcs v1.13.4
+	github.com/Masterminds/vcs v1.13.3
 	github.com/alecthomas/chroma/v2 v2.8.0
 	github.com/anthonynsimon/bild v0.13.0
 	github.com/antonmedv/expr v1.15.0
